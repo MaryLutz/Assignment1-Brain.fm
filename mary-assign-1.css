@@ -18,6 +18,12 @@ body{
     margin-left: 100px;
    
 }
+.section-3 {
+    background-color: rgb(73, 21, 248);
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
 
 input[type="button"] {
     padding: 5px 10px;
