@@ -4,25 +4,30 @@ body{
     margin: 0;
     font-family: Arial;
 }
+
 .section-1 {
-    background-color: rgb(73, 21, 248);
     display: flex;
     flex-direction: row;
     
-
 }
+
 .section-2 {
-    background-color: rgb(73, 21, 248);
     display: flex;
     flex-direction: row;
     margin-left: 100px;
    
 }
+
 .section-3 {
-    background-color: rgb(73, 21, 248);
     display: flex;
     flex-direction: row;
-    margin-left: 100px;
+    margin: 0px 300px 0px 300px;
+}
+
+.section-4 { 
+    display: flex;
+    flex-direction: row;
+    margin: 0px 300px 0px 300px;
 }
 
 input[type="button"] {
@@ -32,6 +37,7 @@ input[type="button"] {
     background-color: rgb(255, 123, 0); color: white;
     
 }
+
 a:active {
     color: white;
 }
