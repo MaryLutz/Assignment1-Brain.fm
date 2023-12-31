@@ -27,7 +27,7 @@ body{
 input[type="button"] {
     padding: 5px 10px;
     border: 0px;
-    border-radius: 10px;
+    border-radius: 18px;
     background-color: rgb(255, 123, 0); color: white;
     
 }
